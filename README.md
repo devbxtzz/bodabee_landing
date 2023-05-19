@@ -1,9 +1,8 @@
-
-# GRO SHOP
+# Bodabee
 
 A React landing page for a grocery mobile app.
 
-You can visit the live Demo on https://gro-shop-60090.web.app/.
+You can visit the live Demo on https://bodabe.vercel.app/.
 
 
 ## Tech Stack
@@ -16,22 +15,12 @@ You can visit the live Demo on https://gro-shop-60090.web.app/.
 
 ## Developers & Designers
 
-- [@Mostafa-Tawfik](https://www.github.com/Mostafa-Tawfik) | Frontend Developer
-- [@Rahma-Awd](https://www.linkedin.com/in/rahma-awd-b012b31aa/) | UX/UI Designer
-
 ## Color Palette
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Apple Green | ![#89AB0C](https://res.cloudinary.com/do1rqqi7v/image/upload/v1661957752/Projects/GRO%20shop/Color%20palette/Apple_Green_fvybvl.png) #89AB0C |
-| Forest Green Traditional | ![#123707](https://res.cloudinary.com/do1rqqi7v/image/upload/v1661957752/Projects/GRO%20shop/Color%20palette/Forest_Green_Traditional_hljt5q.png) #123707 |
 
 
 ## Demo
 
-https://gro-shop-60090.web.app/
-
-![Alt Text](https://res.cloudinary.com/do1rqqi7v/image/upload/v1661959379/Projects/GRO%20shop/Behance/gro-shop-OG_tqbahl.png?raw=true 'Project Preview')
+https://boda.vercel.app/
 
 
 ## Run Locally
@@ -39,14 +28,9 @@ https://gro-shop-60090.web.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Mostafa-Tawfik/gro-shop.git
+  git clone https://github.com/devbxtzz/bodabee_landing.git
 ```
 
-Go to the project directory
-
-```bash
-  cd gro-shop
-```
 
 Install dependencies
 
