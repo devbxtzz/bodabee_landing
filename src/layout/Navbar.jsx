@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { useEffect } from 'react';
+import logo1 from "../assets/logo1.png";
 
 function Navbar() {
 
@@ -20,7 +21,7 @@ function Navbar() {
     <div
       className={`hidden sm:flex sm:fixed top-0 left-0 w-full bg-mainClr items-center justify-around h-[70px] transition duration-700 z-50 ${!activeNav && '-translate-y-[70px]'}`}
       >
-      <h1 className='text-3xl font-extrabold'>Bobabee</h1>
+        <img src={logo1}S alt="/" className='w-[50px] sm:w-[50px] h-10 sm:h-16 cursor-pointer'/>
 
       <div className='flex gap-2 lg:gap-4'>
         <a href='#home'>Home</a>
@@ -29,7 +30,7 @@ function Navbar() {
       </div>
 
       <div className='flex gap-4'>
-        <button className='btn-primary text-lg lg:text-2xl h-8 lg:h-10 w-fit bg-white text-mainClr'>Download App</button>
+        <button className='btn-primary text-lg lg:text-2xl h-8 lg:h-10 w-fit bg-white text-black'>Download App</button>
       </div>
     </div>
   )

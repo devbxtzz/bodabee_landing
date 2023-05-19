@@ -7,7 +7,7 @@ module.exports = {
     extend: {
       colors: {
         mainClr: '#13E78C',
-        txtClr: '#123707',
+        txtClr: '#13E78C',
         lightClr: '#FFFFFF',
         darkClr: '#121212',
       },

@@ -13,7 +13,7 @@ function Home() {
 
       <MobNav></MobNav>
 
-      <div className='layout-margin min-h-screen text-white'>
+      <div className='layout-margin min-h-screen text-black'>
 
         <div className='absolute -top-[30%] 2xl:-top-[45%] -left-16 2xl:-left-32 h-full w-[calc(100vw*1.25)] sm:w-[calc(100vw*1.2)] bg-mainClr rounded-[182px] -rotate-[23.26deg] -z-50'></div>
 
@@ -26,7 +26,7 @@ function Home() {
            
             <h3>Bodabee</h3>
 
-            <p className='w-3/4'>Ride Smart, Safely, Conveniently And Pay Less</p>
+            <p className='w-3/4'>Ride Smart, Conveniently And Pay Less</p>
 
             <p className='text-2xl font-bold mt-12 mb-4 ml-8'>Download the app now!</p>
 
