@@ -2,6 +2,10 @@ import React from 'react'
 import MobNav from '../layout/MobNav'
 import Navbar from '../layout/Navbar'
 import appstore from "../assets/appstore.png";
+import googleplay from "../assets/googleplay.png";
+import screen1 from "../assets/screen1.png";
+import screen2 from "../assets/screen2.png";
+
 
 function Home() {
   return (
@@ -29,17 +33,17 @@ function Home() {
             <div className='h-fit flex flex-wrap gap-4 items-center'>
               <img src={appstore}S alt="/" className='w-[150px] sm:w-[200px] h-12 sm:h-16 cursor-pointer'/>
 
-              <img src={appstore} alt="/" className='w-[150px] sm:w-[200px] h-12 sm:h-16 cursor-pointer'/>
+              <img src={googleplay} alt="/" className='w-[150px] sm:w-[200px] h-12 sm:h-16 cursor-pointer'/>
             </div>
           </div>
 
           {/* hero right pane */}
           <div className='relative mt-12 w-1/2 sm:min-h-[calc(100vh-70px)]'>
             <img
-              src={appstore} alt="/"
+              src={screen1} alt="/"
               className='absolute top-[10%] lg:top-[15%] xl:top-[10%] right-12 sm:right-40 lg:right-48 w-[140px] sm:w-[190px] xl:w-[300px] -rotate-[25.45deg]'/>
             <img
-              src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661734417/Projects/GRO%20shop/cat_znrdnv.png" alt="/"
+              src={screen2} alt="/"
               className='absolute top-[20%] -right-12 sm:right-8 xl:right-0 w-[150px] sm:w-[200px] xl:w-[300px]'/>
           </div>
         </div>
