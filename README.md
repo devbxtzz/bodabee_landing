@@ -43,10 +43,3 @@ Start the server
 ```bash
   npm start
 ```
-
-![Logo](https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732787/Projects/GRO%20shop/logo_byqs3o.png)
-
-
-## Support
-
-For support, www.mostafatawfik.com/.
