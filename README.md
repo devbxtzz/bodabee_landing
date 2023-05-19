@@ -20,7 +20,7 @@ You can visit the live Demo on https://bodabe.vercel.app/.
 
 ## Demo
 
-https://boda.vercel.app/
+https://bodabee.vercel.app/
 
 
 ## Run Locally
