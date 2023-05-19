@@ -24,7 +24,7 @@ function Home() {
           {/* hero left pane */}
           <div className='sm:w-1/2 flex flex-col justify-center items-start text-left'>
            
-            <h3>Bodabee</h3>
+            <h3 className='text-white'>Bodabee</h3>
 
             <p className='w-3/4'>Ride Smart, Conveniently And Pay Less</p>
 
