@@ -1,8 +1,10 @@
 import React from 'react'
+import appstore from "../assets/appstore.png";
+import googleplay from "../assets/googleplay.png";
 
 function Footer() {
   return (
-    <main id='contact' className='overflow-hidden relative h-full w-full bg-mainClr text-white'>
+    <main id='contact' className='overflow-hidden relative h-full w-full bg-mainClr text-black'>
 
       <div className='layout-margin relative h-full flex flex-col sm:flex-row justify-around items-start gap-12 py-12 text-left'>
 
@@ -11,14 +13,14 @@ function Footer() {
 
           <div className='flex items-center gap-2 text-lg'>
             <img
-              src="https://api.iconify.design/carbon/email.svg?color=white" alt="/"
+              src="https://api.iconify.design/carbon/email.svg?color=black" alt="/"
               className='w-[40px]'/>
             <p>contact@bobabee.com</p>
           </div>
 
           <div className='flex items-center gap-2'>
             <img
-              src="https://api.iconify.design/bx/phone-call.svg?color=white" alt="/"
+              src="https://api.iconify.design/bx/phone-call.svg?color=black" alt="/"
               className='w-[40px]'/>
             <p>+256200102008</p>
           </div>
@@ -29,17 +31,17 @@ function Footer() {
 
           <div className='flex items-center gap-2'>
             <img
-              src="https://api.iconify.design/ant-design/facebook-filled.svg?color=white" alt="/"
-              className='w-[50px] cursor-pointer'/>
+              src="https://api.iconify.design/ant-design/facebook-filled.svg?color=black" alt="/"
+              className='w-[30px] cursor-pointer'/>
             <img
-              src="https://api.iconify.design/ant-design/twitter-square-filled.svg?color=white" alt="/"
-              className='w-[50px] cursor-pointer'/>
+              src="https://api.iconify.design/ant-design/twitter-square-filled.svg?color=black" alt="/"
+              className='w-[30px] cursor-pointer'/>
             <img
-              src="https://api.iconify.design/ant-design/instagram-filled.svg?color=white" alt="/"
-              className='w-[50px] cursor-pointer'/>
+              src="https://api.iconify.design/ant-design/instagram-filled.svg?color=black" alt="/"
+              className='w-[30px] cursor-pointer'/>
             <img
-              src="https://api.iconify.design/akar-icons/linkedin-box-fill.svg?color=white" alt="/"
-              className='w-[50px] cursor-pointer'/>
+              src="https://api.iconify.design/akar-icons/linkedin-box-fill.svg?color=black" alt="/"
+              className='w-[30px] cursor-pointer'/>
           </div>
         </div>
 
@@ -47,9 +49,9 @@ function Footer() {
           <h4 className='mb-4'>Download the app Now!</h4>
 
           <div className='h-fit flex flex-wrap gap-4 items-center'>
-            <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661779376/Projects/GRO%20shop/App_Store__iOS_-Badge-Alternative-Logo.wine_w2jxp3.png" alt="/" className='w-[100px] lg:w-[160px] lg:h-[50px] cursor-pointer'/>
+            <img src={appstore} alt="/" className='w-[100px] lg:w-[160px] lg:h-[50px] cursor-pointer'/>
 
-            <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661779377/Projects/GRO%20shop/Google_Play-Badge-Logo.wine_jldeou.png" alt="/" className='w-[100px] lg:w-[160px] lg:h-[50px]  cursor-pointer'/>
+            <img src={googleplay} alt="/" className='w-[100px] lg:w-[160px] lg:h-[50px]  cursor-pointer'/>
           </div>
         </div>
 
@@ -59,8 +61,8 @@ function Footer() {
 
         
 
-        <p className='font-[Redressed]'>
-          all rights reserved || Copyright © 2022
+        <p className='font-[CursiveS]'>
+            Bodabee © 2023
         </p>
 
       </div>
