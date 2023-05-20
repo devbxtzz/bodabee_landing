@@ -5,8 +5,7 @@ function Testimonials() {
   return (
     <main id='testimonials' className='overflow-hidden relative w-full text-txtClr'>
 
-      <img src="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661732787/Projects/GRO%20shop/about-vector-left_mjd98b.png" alt="/" className='absolute -z-50 bottom-0'/>
-
+      
       <h2 className='py-12'>Testimonials</h2>
 
       <div className='layout-margin-tight flex flex-col sm:flex-row justify-center items-center gap-12 py-12 text-left'>

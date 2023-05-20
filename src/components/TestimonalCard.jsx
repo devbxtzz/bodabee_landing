@@ -3,11 +3,11 @@ import React from 'react'
 function TestimonalCard({name, msg, pic}) {
   return (
     <div className='h-[250px] w-[250px] rounded-xl bg-mainClr shadow-primary'>
-      <p className='h-2/3 flex flex-col justify-center items-center text-white p-2 text-center'>
+      <p className='h-2/3 flex flex-col justify-center items-center text-black p-2 text-center'>
         {msg}
       </p>
 
-      <div className='relative h-1/3 flex flex-col justify-center items-center rounded-xl bg-white'>
+      <div className='relative h-1/3 flex flex-col justify-center items-center rounded-xl bg-white text-black'>
         <img
           src={pic} alt="/" className='absolute bottom-14 w-[70px] rounded-full shadow-icon shadow-white'/>
 
