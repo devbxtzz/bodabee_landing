@@ -1,5 +1,5 @@
 import React from 'react'
-import TestimonalCard from './TestimonalCard'
+import TestimonialCard from './TestimonalCard'
 
 function Testimonials() {
   return (
@@ -10,23 +10,23 @@ function Testimonials() {
 
       <div className='layout-margin-tight flex flex-col sm:flex-row justify-center items-center gap-12 py-12 text-left'>
 
-        <TestimonalCard
-          name='Sameh Ahmed'
+        <TestimonialCard
+          name='Paul Mali'
           msg='Lorem Ipsum is simply dummy text of the .'
           pic='https://res.cloudinary.com/do1rqqi7v/image/upload/v1661739967/Projects/GRO%20shop/t1_wwxycf.jpg'>
-        </TestimonalCard>
+        </TestimonialCard>
 
-        <TestimonalCard
-          name='Ahmed Wael'
+        <TestimonialCard
+          name='Ahmed Opio'
           msg='Lorem Ipsum is simply dummy text of the industry.'
           pic='https://res.cloudinary.com/do1rqqi7v/image/upload/v1661739967/Projects/GRO%20shop/t3_zekx3f.jpg'>
-        </TestimonalCard>
+        </TestimonialCard>
 
-        <TestimonalCard
-          name='Ramy Ali'
+        <TestimonialCard
+          name='John Kato'
           msg='Lorem Ipsum is simply dummy text of the .'
           pic='https://res.cloudinary.com/do1rqqi7v/image/upload/v1661739967/Projects/GRO%20shop/t2_a4tvhi.jpg'>
-        </TestimonalCard>
+        </TestimonialCard>
 
       </div>
 

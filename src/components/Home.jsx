@@ -41,10 +41,10 @@ function Home() {
           <div className='relative mt-12 w-1/2 sm:min-h-[calc(100vh-70px)]'>
             <img
               src={screen1} alt="/"
-              className='absolute top-[10%] lg:top-[15%] xl:top-[10%] right-12 sm:right-40 lg:right-48 w-[140px] sm:w-[190px] xl:w-[300px] -rotate-[25.45deg]'/>
+              className='absolute top-[10%] lg:top-[5%] xl:top-[40%] right-12 sm:right-40 lg:right-48 w-[440px] sm:w-[790px] xl:w-[900px] -rotate-[25.45deg]'/>
             <img
               src={screen2} alt="/"
-              className='absolute top-[20%] -right-12 sm:right-8 xl:right-0 w-[150px] sm:w-[200px] xl:w-[300px]'/>
+              className='absolute top-[40%] -right-12 sm:right-8 xl:right-0 w-[450px] sm:w-[800px] xl:w-[900px]'/>
           </div>
         </div>
       </div>
