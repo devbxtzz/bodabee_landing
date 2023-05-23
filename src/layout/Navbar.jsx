@@ -30,7 +30,8 @@ function Navbar() {
       </div>
 
       <div className='flex gap-4'>
-        <button className='btn-primary text-lg lg:text-2xl h-8 lg:h-10 w-fit bg-white text-black'>Download App</button>
+      <a href="https://forms.gle/p34LjD23kWQheLa66" target="_blank" rel="noopener noreferrer">
+        <buttson href = ""className='btn-primary text-lg lg:text-2xl h-8 lg:h-10 w-fit bg-white text-black'>Join The Waitlist</buttson></a>
       </div>
     </div>
   )
