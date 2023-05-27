@@ -1,5 +1,5 @@
 import React from "react";
-import TestimonialCard from "./TestimonalCard";
+import TestimonialCard from "./TestimonialCard";
 
 function Testimonials() {
   return (

@@ -4,17 +4,17 @@ import logo1 from "../assets/logo1.png";
 
 function Navbar() {
 
-  // handle nav hide on scorll
+  // handle nav hide on scroll
   const [activeNav, setActiveNav] = useState(true)
   const [scrollPos, setScrollPos] = useState(window.scrollY)
 
   useEffect(()=>{
-    const handelScorll = () => {
+    const handelScroll = () => {
       setScrollPos(window.scrollY)
       setActiveNav(scrollPos > window.scrollY)
     }
-    window.addEventListener('scroll', handelScorll)
-    return ()=> window.removeEventListener('scroll', handelScorll)
+    window.addEventListener('scroll', handelScroll)
+    return ()=> window.removeEventListener('scroll', handelScroll)
   }, [scrollPos])
 
   return (
@@ -31,7 +31,7 @@ function Navbar() {
 
       <div className='flex gap-4'>
       <a href="https://forms.gle/p34LjD23kWQheLa66" target="_blank" rel="noopener noreferrer">
-        <buttson href = ""className='btn-primary text-lg lg:text-2xl h-8 lg:h-10 w-fit bg-white text-black'>Join The Waitlist</buttson></a>
+        <button href = ""className='btn-primary text-lg lg:text-2xl h-8 lg:h-10 w-fit bg-white text-black'>Join The Waitlist</button></a>
       </div>
     </div>
   )
