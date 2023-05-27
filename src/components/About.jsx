@@ -16,7 +16,7 @@ function About() {
             <p className="mt-4 text-xl">
               Bodabee is a revolutionary ride hailing and sharing app designed
               to simplify your daily commute. With a focus on accessibility,
-              efficiency, and community, Bodabee connects you with nearby
+              efficiency, and convenience, Bodabee connects you with nearby
               drivers for convenient and reliable rides. Whether you're heading
               to work, exploring the city, or carpooling with others, Bodabee
               ensures a seamless and enjoyable transportation experience. With
