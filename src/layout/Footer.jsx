@@ -27,7 +27,7 @@ function Footer() {
               alt="/"
               className="w-[40px]"
             />
-            <p>+256200102008</p>
+            <p>+256200906391 or +256705673857</p>
           </div>
         </div>
 
