@@ -14,10 +14,16 @@ function About() {
           <article className="w-[95%] sm:w-1/2">
             <h3 className="text-txtClr">Bodabee</h3>
             <p className="mt-4 text-xl">
-              Bodabee is more than just an app; it's a community of like-minded
-              individuals who value convenience, sustainability, and shared
-              experiences. By choosing Bodabee, you become part of a larger
-              movement towards a greener and more connected future.{" "}
+              Bodabee is a revolutionary ride hailing and sharing app designed
+              to simplify your daily commute. With a focus on accessibility,
+              efficiency, and community, Bodabee connects you with nearby
+              drivers for convenient and reliable rides. Whether you're heading
+              to work, exploring the city, or carpooling with others, Bodabee
+              ensures a seamless and enjoyable transportation experience. With
+              transparent pricing, advanced safety features, and a commitment to
+              reducing our carbon footprint, Bodabee is redefining the way we
+              travel. Join Bodabee today and experience a hassle-free and
+              eco-friendly commute like never before.{" "}
             </p>
           </article>
 
