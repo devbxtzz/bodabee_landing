@@ -61,7 +61,7 @@ function Navbar() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <button className="btn-primary text-lg lg:text-2xl h-8 lg:h-10 w-fit bg-white text-black">
+            <button className="btn-primary inline-flex h-8 lg:h-10 text-lg w-fit bg-white text-black">
               Join The WaitList
             </button>
           </a>
