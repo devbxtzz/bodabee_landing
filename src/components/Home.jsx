@@ -1,5 +1,4 @@
 import React from "react";
-import MobNav from "../layout/MobNav";
 import Navbar from "../layout/Navbar";
 import appstore from "../assets/appstore.png";
 import googleplay from "../assets/googleplay.png";
@@ -9,7 +8,6 @@ import screen2 from "../assets/screen2.png";
 function Home() {
   return (
     <main id="home" className="overflow-hidden relative h-full w-full">
-      <MobNav></MobNav>
 
       <div className="layout-margin min-h-screen text-black">
         <div className="absolute -top-[30%] 2xl:-top-[45%] -left-16 2xl:-left-32 h-full w-[calc(100vw*1.25)] sm:w-[calc(100vw*1.2)] bg-mainClr rounded-[182px] -rotate-[23.26deg] -z-50"></div>

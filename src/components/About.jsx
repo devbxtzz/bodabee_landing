@@ -11,7 +11,7 @@ function About() {
 
       <div className="layout-margin-tight flex flex-col justify-center items-center gap-12 py-12 text-left">
         <div className="flex flex-col-reverse sm:flex-row justify-center items-center gap-4">
-          <article className="w-[95%] sm:w-1/2"
+          <div className="w-[95%] sm:w-1/2">
             <p className="mt-4 text-xl">
               Bodabee is a revolutionary ride hailing and sharing app designed
               to simplify your daily commute. With a focus on accessibility,
@@ -24,7 +24,7 @@ function About() {
               travel. Join Bodabee today and experience a hassle-free and
               eco-friendly commute like never before.
             </p>
-          </article>
+          </div>
 
           <div className="relative w-1/2 flex justify-center items-center">
             <img src={screen1} alt="/" className="absolute -z-10" />
