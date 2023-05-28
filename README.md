@@ -1,12 +1,11 @@
 # Bodabee
 
-A React landing page for a grocery mobile app.
+A React landing page for Bodabee a Safari Share mobile app.
 
-You can visit the live Demo on https://bodabe.vercel.app/.
+You can visit the live Demo on bodabee.vercel.app/.
 
 
 ## Tech Stack
-
 **Client:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
