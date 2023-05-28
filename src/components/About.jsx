@@ -22,7 +22,7 @@ function About() {
               transparent pricing, advanced safety features, and a commitment to
               reducing our carbon footprint, Bodabee is redefining the way we
               travel. Join Bodabee today and experience a hassle-free and
-              eco-friendly commute like never before.{" "}
+              eco-friendly commute like never before.
             </p>
           </article>
 
