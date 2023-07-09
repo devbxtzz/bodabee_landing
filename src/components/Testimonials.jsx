@@ -12,19 +12,19 @@ function Testimonials() {
       <div className="layout-margin-tight flex flex-col sm:flex-row justify-center items-center gap-12 py-12 text-left">
         <TestimonialCard
           name="Paul Mali"
-          msg="Bodabee has become my go-to ride app and I can always count on finding a ride. "
+          msg="EcstasyBikes has become my go-to ride app and I can always count on finding a ride. "
           pic="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661739967/Projects/GRO%20shop/t1_wwxycf.jpg"
         ></TestimonialCard>
 
         <TestimonialCard
           name="Ahmed Opio"
-          msg='Bodabee has completely transformed my daily commute.'
+          msg='EcstasyBikes has completely transformed my daily commute.'
           pic="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661739967/Projects/GRO%20shop/t3_zekx3f.jpg"
         ></TestimonialCard>
 
         <TestimonialCard
           name="John Kato"
-          msg="I have been using Bodabee for both rides and deliveries, and I couldn't be happier. "
+          msg="I have been using EcstasyBikes for both rides and deliveries, and I couldn't be happier. "
           pic="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661739967/Projects/GRO%20shop/t2_a4tvhi.jpg"
         ></TestimonialCard>
       </div>

@@ -18,7 +18,7 @@ function Footer() {
               alt="/"
               className="w-[40px]"
             />
-            <p>contact@bobabee.com</p>
+            <p>contact@ecstasybikes.com</p>
           </div>
 
           <div className="flex items-center gap-2">
@@ -27,7 +27,7 @@ function Footer() {
               alt="/"
               className="w-[40px]"
             />
-            <p>+256200906391 or +256705673857</p>
+            <p>+256705673857</p>
           </div>
         </div>
 
@@ -36,7 +36,7 @@ function Footer() {
 
           <div className="flex items-center gap-2">
             <a
-              href="https://facebook.com/bodabee"
+              href="https://facebook.com/ecstasybikes"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -47,7 +47,7 @@ function Footer() {
               />
             </a>
             <a
-              href="https://twitter.com/bodabeeapp"
+              href="https://twitter.com/ecstasybikesapp"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -58,7 +58,7 @@ function Footer() {
               />
             </a>
             <a
-              href="https://discord.com/bodabee"
+              href="https://discord.com/ecstasybikes"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -69,7 +69,7 @@ function Footer() {
               />
             </a>
             <a
-              href="https://instagram.com/bodabeee"
+              href="https://instagram.com/ecstasybikese"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -80,7 +80,7 @@ function Footer() {
               />
             </a>
             <a
-              href="https://linkedin.com/bodabeee"
+              href="https://linkedin.com/ecstasybikese"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -91,7 +91,7 @@ function Footer() {
               />
             </a>
             <a
-              href="https://telegram.com/bodabeee"
+              href="https://telegram.com/ecstasybikese"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -124,7 +124,7 @@ function Footer() {
       </div>
 
       <div className="h-full bg-gradient-to-r from-txtClr to-txtClr/50 flex flex-col justify-center items-center gap-2 py-8">
-        <p className="font-[Cursive]">Bodabee © 2023</p>
+        <p className="font-[Cursive]">EcstasyBikes © 2023</p>
       </div>
     </main>
   );

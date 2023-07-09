@@ -21,7 +21,7 @@ function Contact() {
             className='w-3/4 text-2xl border-2 border-black rounded-xl px-4 py-2'/>
           <textarea
             type="text"
-            placeholder='Mesage'
+            placeholder='Message'
             className='w-3/4 h-[150px] text-2xl border-2 border-black rounded-xl px-4 py-2'/>
 
             <button className='btn-primary bg-mainClr text-black'>

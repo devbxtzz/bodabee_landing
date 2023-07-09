@@ -57,12 +57,12 @@ function Navbar() {
         </div>
         <div>
           <a
-            href="https://forms.gle/p34LjD23kWQheLa66"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
           >
             <button className="btn-primary inline-flex h-8 lg:h-10 text-lg w-fit bg-white text-black">
-              Join The WaitList
+              Download App
             </button>
           </a>
         </div>

@@ -1,8 +1,8 @@
-# Bodabee
+# EcstasyBikes
 
-A React landing page for Bodabee a Safari Share mobile app.
+A React landing page for EcstasyBikes a Safari Share mobile app.
 
-You can visit the live Demo on bodabee.vercel.app/.
+You can visit the live Demo on EcstasyBikes.vercel.app/.
 
 
 ## Tech Stack
@@ -12,33 +12,10 @@ You can visit the live Demo on bodabee.vercel.app/.
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-## Developers & Designers
-
-## Color Palette
 
 
 ## Demo
 
-https://bodabee.vercel.app/
+https://ecstasybikes.vercel.app/
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/devbxtzz/bodabee_landing.git
-```
-
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
