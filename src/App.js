@@ -1,10 +1,10 @@
 import './App.css';
-import Bodabee from './Bodabee';
+import Ecstasy from './Ecstasy';
 
 function App() {
   return (
     <div className="App">
-      <Bodabee></Bodabee>
+      <Ecstasy></Ecstasy>
     </div>
   );
 }

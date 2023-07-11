@@ -5,7 +5,7 @@ import Home from './components/Home'
 import Testimonials from './components/Testimonials'
 import Footer from './layout/Footer'
 
-function Bodabee() {
+function Ecstasy() {
   return (
     <div className='select-none'>
       <Home></Home>
@@ -30,4 +30,4 @@ function Bodabee() {
   )
 }
 
-export default Bodabee
+export default Ecstasy;
