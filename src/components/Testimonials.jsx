@@ -12,17 +12,17 @@ function Testimonials() {
       <div className="layout-margin-tight flex flex-col sm:flex-row justify-center items-center gap-12 py-12 text-left">
         <TestimonialCard
           name="-Paul Mali-"
-          msg='"Choosing EcstasyBikes not only gave me a thrilling cycling experience but also allowed me to contribute to a greener future."'
+          msg='"Choosing BikeChapz not only gave me a thrilling cycling experience but also allowed me to contribute to a greener future."'
         ></TestimonialCard>
 
         <TestimonialCard
           name="-Ahmed Opio-"
-          msg='"EcstasyBikes made my cycling experience convenient and enjoyable - highly recommended!" '
+          msg='"BikeChapz made my cycling experience convenient and enjoyable - highly recommended!" '
         ></TestimonialCard>
 
         <TestimonialCard
           name="-John Kato-"
-          msg='"I love being part of the EcstasyBikes community its inspiring to connect with fellow riders and explore new routes together."'
+          msg='"I love being part of the BikeChapz community its inspiring to connect with fellow riders and explore new routes together."'
         ></TestimonialCard>
       </div>
     </main>

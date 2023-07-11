@@ -18,7 +18,7 @@ function Footer() {
               alt="/"
               className="w-[40px]"
             />
-            <p>contact@ecstasybikes.com</p>
+            <p>contact@bikechapz.com</p>
           </div>
 
           <div className="flex items-center gap-2">
@@ -36,7 +36,7 @@ function Footer() {
 
           <div className="flex items-center gap-2">
             <a
-              href="https://facebook.com/ecstasybikes"
+              href="https://facebook.com/Bikechapz"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -47,7 +47,7 @@ function Footer() {
               />
             </a>
             <a
-              href="https://twitter.com/ecstasybikesapp"
+              href="https://twitter.com/Bikechapzapp"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -58,7 +58,7 @@ function Footer() {
               />
             </a>
             <a
-              href="https://discord.com/ecstasybikes"
+              href="https://discord.com/Bikechapz"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -69,7 +69,7 @@ function Footer() {
               />
             </a>
             <a
-              href="https://instagram.com/ecstasybikese"
+              href="https://instagram.com/Bikechapze"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -80,7 +80,7 @@ function Footer() {
               />
             </a>
             <a
-              href="https://linkedin.com/ecstasybikese"
+              href="https://linkedin.com/Bikechapze"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -91,7 +91,7 @@ function Footer() {
               />
             </a>
             <a
-              href="https://telegram.com/ecstasybikese"
+              href="https://telegram.com/Bikechapze"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -124,7 +124,7 @@ function Footer() {
       </div>
 
       <div className="h-full bg-gradient-to-r from-txtClr to-txtClr/50 flex flex-col justify-center items-center gap-2 py-8">
-        <p className="font-[Cursive]">EcstasyBikes © 2023</p>
+        <p className="font-[Cursive]">BikeChapz © 2023</p>
       </div>
     </main>
   );

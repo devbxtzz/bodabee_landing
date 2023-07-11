@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div className="flex items-center justify-between flex-wrap bg-mainClr p-4">
       <div className="flex items-center flex-shrink-0 text-white mr-6 lg:mr-72">
-        <img src={logo1} className="w-100 h-10 mr-2" alt="Logo" />
+        <img src={logo1} className="w-100 h-10 mr-2" alt="Logo" />BikeChapz
       </div>
       <div className="block lg:hidden">
         <button

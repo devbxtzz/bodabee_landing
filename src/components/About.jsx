@@ -13,7 +13,7 @@ function About() {
           <div className="">
             <h4 className="py-12 text-black">Redefining the Way You Cycle</h4>
             <p className="mb-4 text-xl">
-              At EcstasyBikes, we are passionate about revolutionizing the way
+              At BikeChapz, we are passionate about revolutionizing the way
               people experience and embrace cycling. We believe that bicycles
               are not just a means of transportation, but a gateway to freedom,
               adventure, and a healthier lifestyle. With this vision in mind, we
@@ -50,7 +50,7 @@ function About() {
             <p className="mb-4 text-xl">
               We believe that cycling is more than just a solitary activity;
               it's an opportunity to connect with fellow riders and build a
-              thriving community. EcstasyBikes is a place where cyclists of all
+              thriving community. BikeChapz is a place where cyclists of all
               levels can come together, share experiences, and inspire one
               another. Join us in exploring new routes, participating in events,
               and fostering a supportive environment that encourages growth and
@@ -60,7 +60,7 @@ function About() {
         </div>
 
         <div className="w-full flex flex-col justify-center items-start gap-12">
-          <h3 className="text-left text-txtClr">Why choose EcstasyBikes?</h3>
+          <h3 className="text-left text-txtClr">Why choose BikeChapz?</h3>
 
           <div className="w-full flex flex-col items-center sm:flex-row justify-start gap-4">
             <div className="w-64 p-4 py-8 rounded-lg border-2 border-mainClr shadow-primary">
@@ -94,7 +94,7 @@ function About() {
                 Eco-friendly and Sustainable
               </p>
               <p>
-                By choosing EcstasyBikes, you're not only enhancing your
+                By choosing BikeChapz, you're not only enhancing your
                 well-being but also contributing to a greener future. Cycling is
                 a sustainable mode of transportation, reducing carbon emissions
                 and promoting a healthier environment. Join us in our mission to
