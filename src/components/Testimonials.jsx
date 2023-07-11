@@ -11,21 +11,18 @@ function Testimonials() {
 
       <div className="layout-margin-tight flex flex-col sm:flex-row justify-center items-center gap-12 py-12 text-left">
         <TestimonialCard
-          name="Paul Mali"
-          msg="EcstasyBikes has become my go-to ride app and I can always count on finding a ride. "
-          pic="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661739967/Projects/GRO%20shop/t1_wwxycf.jpg"
+          name="-Paul Mali-"
+          msg='"Choosing EcstasyBikes not only gave me a thrilling cycling experience but also allowed me to contribute to a greener future."'
         ></TestimonialCard>
 
         <TestimonialCard
-          name="Ahmed Opio"
-          msg='EcstasyBikes has completely transformed my daily commute.'
-          pic="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661739967/Projects/GRO%20shop/t3_zekx3f.jpg"
+          name="-Ahmed Opio-"
+          msg='"EcstasyBikes made my cycling experience convenient and enjoyable - highly recommended!" '
         ></TestimonialCard>
 
         <TestimonialCard
-          name="John Kato"
-          msg="I have been using EcstasyBikes for both rides and deliveries, and I couldn't be happier. "
-          pic="https://res.cloudinary.com/do1rqqi7v/image/upload/v1661739967/Projects/GRO%20shop/t2_a4tvhi.jpg"
+          name="-John Kato-"
+          msg='"I love being part of the EcstasyBikes community its inspiring to connect with fellow riders and explore new routes together."'
         ></TestimonialCard>
       </div>
     </main>
