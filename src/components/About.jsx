@@ -12,7 +12,7 @@ function About() {
         <div className="flex flex-col-reverse sm:flex-row justify-center items-center">
           <div className="">
             <h4 className="py-12 text-black">Redefining the Way You Cycle</h4>
-            <p className="mt-4 text-xl">
+            <p className="mb-4 text-xl">
               At EcstasyBikes, we are passionate about revolutionizing the way
               people experience and embrace cycling. We believe that bicycles
               are not just a means of transportation, but a gateway to freedom,
@@ -24,7 +24,7 @@ function About() {
             <h4 className="py-12 text-black">
               Pedaling Towards a Greener Future
             </h4>
-            <p className="mt-4 text-xl">
+            <p className="mb-4 text-xl">
               As avid cyclists, we are committed to promoting sustainability and
               reducing our environmental impact. By choosing to cycle instead of
               driving, you contribute to a cleaner, greener planet. We strive to
@@ -37,7 +37,7 @@ function About() {
             <h4 className="py-12 text-black">
               Empowering Riders, Connecting Communities
             </h4>
-            <p className="mt-4 text-xl">
+            <p className="mb-4 text-xl">
               Our mission is simple: to empower riders and connect communities
               through the love of cycling. We strive to make cycling accessible
               and enjoyable for everyone, whether you're a seasoned cyclist or a
@@ -47,7 +47,7 @@ function About() {
             </p>
 
             <h4 className="py-12 text-black">Cycling is Better Together</h4>
-            <p className="mt-4 text-xl">
+            <p className="mb-4 text-xl">
               We believe that cycling is more than just a solitary activity;
               it's an opportunity to connect with fellow riders and build a
               thriving community. EcstasyBikes is a place where cyclists of all
