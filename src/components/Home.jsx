@@ -16,15 +16,12 @@ function Home() {
           <div className="sm:w-1/2 flex flex-col justify-center items-start text-left">
             <h3 className="text-white">BikeChapz</h3>
 
-            <p className="w-4/4">
-              Join Our Community Today! Whether you're an urban
+            <p className="w-3/4">
+              Whether you're an urban
               explorer, a weekend adventurer, or someone seeking an active
-              lifestyle, Bikechapz welcomes you with open arms. Join our
+              lifestyle. Join our
               vibrant community of riders, unlock new horizons, and experience
-              the exhilaration of cycling like never before. Embark on your
-              cycling journey with Bikechapz today and let the thrill of the
-              ride take you to new heights. Together, let's pedal towards a
-              brighter, healthier, and more connected future.
+              the exhilaration of cycling like never before.
             </p>
 
             <p className="text-2xl font-bold mt-12 mb-4 ml-8">
@@ -52,7 +49,7 @@ function Home() {
             <img
               src={screen1}
               alt="/"
-              className="absolute top-[10%] lg:top-[5%] xl:top-[10%] right-12 sm:right-40 lg:right-48 w-[440px] sm:w-[790px] xl:w-[900px]"
+              className="absolute top-[5%] lg:top-[1%] xl:top-[5%] right-12 sm:right-40 lg:right-48 w-[440px] sm:w-[790px] xl:w-[900px]"
             />
           </div>
         </div>
